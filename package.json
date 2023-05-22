@@ -1,0 +1,22 @@
+{
+  "name": "toml",
+  "version": "1.0.0",
+  "description": "A pure-JavaScript library to parse TOML.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interrrp/node-toml.git"
+  },
+  "author": "interrrp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/interrrp/node-toml/issues"
+  },
+  "homepage": "https://github.com/interrrp/node-toml#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
